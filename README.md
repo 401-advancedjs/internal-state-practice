@@ -20,6 +20,7 @@
 #### Tests
 * How do you run tests? `npm run test`
 * What assertions were made?
+
   * Counter increments everytime a submit is clicked
   * Name is being changed in the state
   * basic rendering onto page
