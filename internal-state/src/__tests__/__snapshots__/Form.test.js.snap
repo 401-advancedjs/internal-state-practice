@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Form /> rendering follows the snapshot 1`] = `
+<form>
+  <label>
+    Name:
+    <input
+      name=""
+      onChange={[Function]}
+      type="text"
+    />
+  </label>
+  <div>
+    # of Updates: 
+    0
+  </div>
+  <div>
+    This is your name: 
+    
+  </div>
+  <button
+    onClick={[Function]}
+  >
+    Submit
+  </button>
+</form>
+`;
